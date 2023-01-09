@@ -1,4 +1,4 @@
-# Credits
+# Android World Compiler
 
 - Formatter
 	- [Android Studio](https://developer.android.google.cn/studio/)
